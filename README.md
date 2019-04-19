@@ -31,6 +31,6 @@
 <img src = "screenshots/Super Hero.png">
 
 ##### 7. Geek
-[Downlaod From Google Drive](https://drive.google.com/open?id=1sFxI8iKhZUxq0ngun3EW6Ez7IrSqn6QP)
+[Download From Google Drive](https://drive.google.com/open?id=1sFxI8iKhZUxq0ngun3EW6Ez7IrSqn6QP)
 
 <img src = "screenshots/Geek.png">
